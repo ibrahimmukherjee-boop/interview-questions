@@ -66,7 +66,7 @@ Please select one of the technologies you're applying for:
 * [iOS](https://github.com/capcodigital/interview-questions/blob/main/iOS.md#-ios-interview-questions)
 * [Android](https://github.com/capcodigital/interview-questions/blob/main/android.md#-android-interview-questions)
 * [QA Automation](https://github.com/capcodigital/interview-questions/blob/main/qa-automation.md#-qa--automation-interview-questions)
-
+* [AI Engineer](https://github.com/ibrahimmukherjee-boop/interview-questions/blob/main/ai-engineer.md)  
 Given that you sometimes have limited time to prepare for a technical interview, we recommend reviewing the given topics to understand the areas to focus while preparing for the interview.
 
 <!-- CONTRIBUTING -->
